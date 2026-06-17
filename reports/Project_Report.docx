@@ -1,0 +1,21 @@
+SaaS Customer Analytics Dashboard
+Revenue, Churn & Customer Insights Analysis for RavenStack
+Prepared By: Rudra Patel
+Tools: Python, Pandas, Power BI, DAX
+Date: August 2026
+1. Executive Summary
+This project analyzes customer, subscription, revenue, and churn data for RavenStack, a SaaS business. Using Python for exploratory data analysis and Power BI for interactive dashboarding, the project identifies key revenue drivers, churn patterns, customer segment performance, and business risks. The analysis revealed that Enterprise customers contribute the majority of Annual Recurring Revenue (ARR), while the United States generates the largest share of overall revenue.
+2. Problem Statement
+RavenStack seeks to better understand the factors influencing customer retention, subscription revenue, and churn behavior. The objective of this project is to transform raw SaaS operational data into actionable business intelligence through data analysis and dashboard reporting.
+3. Dataset Overview
+The analysis was performed using a consolidated SaaS dataset containing customer, subscription, revenue, and churn information. The final dataset contained approximately 5,000 subscription records.
+4. Methodology
+Data Cleaning → Exploratory Data Analysis → Business Insight Generation → Dashboard Development using Python, Pandas, Power BI and DAX.
+5. Dashboard Overview
+Dashboard Components: KPI Overview, Revenue Analysis, Churn Analysis, ARR Trend Analysis, Executive Insights.
+6. Key Findings
+Enterprise plans generate the highest ARR. The United States contributes the largest revenue share. Overall churn is approximately 22%. DevTools customers exhibit the highest churn rate. Germany records the highest churn rate among countries analyzed.
+7. Business Recommendations
+Reduce revenue concentration risk, improve DevTools retention, expand Enterprise accounts, increase upgrade conversions, and improve auto-renew adoption.
+8. Conclusion
+The project successfully transformed raw SaaS operational data into actionable business insights and an executive dashboard supporting data-driven decision-making.
